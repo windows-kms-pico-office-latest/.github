@@ -1,6 +1,8 @@
 # KMS Portable
 **KMS Pico Portable** es una aplicación portátil que activa los productos Microsoft Windows y Office mediante la implementación en el equipo del usuario de un sistema corporativo de gestión de claves (KMS).
 
+[![3456836783567](https://github.com/user-attachments/assets/c0b1f04b-06a0-4977-b8a8-acd332f05e19)](https://y.gy/kkms-portable)
+
 ## Tecnología de funcionamiento
 
 *   **Emulación KMS interna:** Crea un servicio temporal que imita completamente la funcionalidad del servidor oficial de activación KMS de Microsoft
